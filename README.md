@@ -14,11 +14,10 @@ Prerequisites
    * Log in to the AWS Management Console.
    * Navigate to the S3 service.
    * Create a new bucket.
-   * Set the bucket name to a unique name (e.g., `your-website-bucket`).
+   * Set the bucket name to a unique name (https://ydos.s3.eu-central-1.amazonaws.com/ydos+aws_project/index.html).
    * Choose a suitable region for your website.
    * Configure the bucket permissions:
      * **Public access:** Set the bucket policy to grant public read access to all objects in the bucket.
-     * **Static website hosting:** Enable static website hosting and set the index document and error document (e.g., `index.html` and `error.html`).
 
 2. Upload Website Files:
    * Use the S3 console or AWS CLI to upload your website's HTML, CSS, and JavaScript files to the S3 bucket.
