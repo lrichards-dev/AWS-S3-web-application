@@ -1,7 +1,7 @@
 # AWS S3 Web Application
 
-Overview
-This project demonstrates how to deploy a static web application on Amazon S3. S3 is a highly scalable object storage service designed to store and retrieve any amount of data, at any time, from anywhere on the web.
+**Overview**
+AWS S3 is a used basically for data storage and this project demonstrates how to deploy a static web application on Amazon S3. S3 is a highly scalable object storage service designed to store and retrieve any amount of data, at any time, from anywhere on the web.
 
 Prerequisites
 * An AWS account
